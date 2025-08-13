@@ -14,4 +14,4 @@
 ----
 
 ### Past Incidents:
-- **September 6, 2025**: Ran out of frosted claws.
+- **August 12, 2025**: Ran out of frosted claws.
