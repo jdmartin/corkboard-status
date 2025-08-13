@@ -18,6 +18,6 @@ const html = `
 <body>${marked.parse(md)}</body>
 </html>`;
 
-fs.writeFileSync('status.html', html);
-console.log('status.html generated');
+fs.writeFileSync('index.html', html);
+console.log('index.html generated');
 
