@@ -8,7 +8,7 @@ const html = `
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Status</title>
+  <title>Corkboard Status</title>
   <!-- Refresh every 5 minutes -->
   <meta http-equiv="refresh" content="300">
   <style>
