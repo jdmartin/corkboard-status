@@ -1,6 +1,7 @@
 {
     "scripts": {
-        "build": "node render.js"
+        "build": "node render.js",
+        "deploy": "./publish.sh"
     },
     "dependencies": {
     "marked": "^16.1.2"
