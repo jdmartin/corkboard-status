@@ -1,5 +1,8 @@
 {
-  "dependencies": {
+    "scripts": {
+        "build": "node render.js"
+    },
+    "dependencies": {
     "marked": "^16.1.2"
   }
 }
