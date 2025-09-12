@@ -12,7 +12,7 @@ Problem: ‼️
 ----
 
 ### Upcoming Maintenance:
-- **September 13, 2025**: **Corkboard** and **Speedybot** will be intermittent from 02:00 - 05:00 EDT due to a scheduled server upgrade.
+- **September 14, 2025**: **Corkboard** and **Speedybot** will be intermittent from 02:00 - 05:00 EDT due to a scheduled server upgrade.
 <br/>
 <br/>
 
